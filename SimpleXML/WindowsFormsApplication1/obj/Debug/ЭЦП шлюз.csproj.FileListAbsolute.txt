@@ -1,0 +1,36 @@
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Signer.exe.config
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Signer.exe
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Signer.pdb
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csprojResolveAssemblyReference.cache
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csproj.GenerateResource.Cache
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Signer.exe
+D:\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Signer.pdb
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Signer.exe.config
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Signer.exe
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Signer.pdb
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Signer.exe
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Signer.pdb
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\Cryptor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csproj.GenerateResource.Cache
+D:\Разработки\Cryptor\WindowsFormsApplication1\bin\Debug\Signer.exe.config
+D:\Разработки\Cryptor\WindowsFormsApplication1\obj\Debug\Signer.exe
+D:\Разработки\Cryptor\WindowsFormsApplication1\obj\Debug\Signer.pdb
+D:\Разработки\Cryptor\WindowsFormsApplication1\bin\Debug\Signer.exe
+D:\Разработки\Cryptor\WindowsFormsApplication1\bin\Debug\Signer.pdb
+D:\Разработки\Cryptor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Разработки\Cryptor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Разработки\Cryptor\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csproj.GenerateResource.Cache
+D:\Разработки\Cryptor\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csprojResolveAssemblyReference.cache
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\bin\Debug\Signer.exe.config
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\obj\Debug\Signer.exe
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\obj\Debug\Signer.pdb
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csprojResolveAssemblyReference.cache
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\obj\Debug\ЭЦП шлюз.csproj.GenerateResource.Cache
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\bin\Debug\Signer.exe
+D:\Разработки\Cryptor\SimpleXML\WindowsFormsApplication1\bin\Debug\Signer.pdb
